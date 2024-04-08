@@ -1,4 +1,4 @@
-IMDB Top Movies Scraper and Data Analysis
+# IMDB Top Movies Scraper and Data Analysis
 This project is a Python script that scrapes the top movies data from IMDB's chart page and performs data analysis and visualization on the scraped data. The script uses the requests, BeautifulSoup, pandas, seaborn, matplotlib, and plotly libraries to scrape, clean, and visualize the data.
 
 The script performs the following tasks:
