@@ -82,7 +82,7 @@ fig.update_layout(title="Movies by Release Year",xaxis_title='Release Year', yax
 fig.show()
 
 # Interactive Scatter Plot of Ratings vs. Votings
-fig = px.scatter(data, x='Ratings', y='Movie Names', title='Ratings vs. Votings')
+fig = px.scatter(data, x='Ratings', y='Movie Names', title='Ratings vs. Movies')
 fig.update_layout(xaxis_title='Ratings', yaxis_title='Movies')
 fig.show()
 
